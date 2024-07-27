@@ -1,0 +1,9 @@
+[user]
+	email = imnotxsomeone@gmail.com
+	name = Notxsomeone
+[pull]
+	rebase = true
+[fetch]
+	prune = true
+[init]
+	defaultBranch = main
